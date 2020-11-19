@@ -15,4 +15,12 @@ Curso Robot Framework do Fernando Papito QANinja
         *Busca por ID, Css Selector e Xpath;
     *Separação de scripts em pastas para melhor organização;
 
+18/11
+
+Finalizado aulas abaixo:
+* Aula 7 - Radio Buttons
+* Aula 8 - Menu de Opções(combobox/select)
+    Seleção por Texto e validação por Value e vice versa.
+
+
 
