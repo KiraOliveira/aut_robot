@@ -23,4 +23,14 @@ Finalizado aulas abaixo:
     Seleção por Texto e validação por Value e vice versa.
 
 
+21/11
+
+Curso finalizado, aulas 9 até 12 concluídas.
+* Crianção de Keywords;
+* Estrutura Page Object;
+* Validação de dados em tabelas;
+* Login
+
+Irei continuar praticando até finalizar a automação do site todo.
+
 
