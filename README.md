@@ -33,4 +33,6 @@ Curso finalizado, aulas 9 até 12 concluídas.
 
 Irei continuar praticando até finalizar a automação do site todo.
 
+Atualizado.
+
 
